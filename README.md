@@ -9,9 +9,9 @@ Semplice progetto node.js che utilizza:
 
 ## Watch del progetto
 
-Per avviare in modalità watch il progetto è necessario installare rm2 (PM2 è un gestore di processi di produzione per applicazioni Node.js con un load balancer integrato).
+Per avviare in modalità watch il progetto è necessario installare pm2 (PM2 è un gestore di processi di produzione per applicazioni Node.js con un load balancer integrato).
 
-`npm i rm2 -g`
+`npm i pm2 -g`
 
 rm2 ci consente di mantenere in vita le applicazioni per sempre, di ricaricarle senza tempi di inattività e di facilitare le attività comuni di amministrazione del sistema.
 ****
